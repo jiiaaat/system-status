@@ -1,0 +1,263 @@
+` WordPress Environment
+
+WordPress address (URL): https://tienda.marisco-village.com
+Site address (URL): https://tienda.marisco-village.com
+WC Version: 8.7.0
+REST API Version: ✔ 8.7.0
+Action Scheduler Version: ✔ 3.7.2
+Log Directory Writable: ✔
+WP Version: 6.5
+WP Multisite: –
+WP Memory Limit: ❌ 40 MB - Recomendamos configurar la memoria por lo menos a 64 MB. Ver: Aumentar la memoria asignada para PHP
+WP Debug Mode: –
+WP Cron: ✔
+Language: es_ES
+External object cache: – Server Environment
+
+Server Info: Apache
+PHP Version: 8.1.27
+PHP Post Max Size: 64 MB
+PHP Time Limit: 50000
+PHP Max Input Vars: 5000
+cURL Version: 7.74.0
+OpenSSL/1.1.1w
+
+SUHOSIN Installed: –
+MySQL Version: 5.7.42-log
+Max Upload Size: 64 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔ Database
+
+WC Database Version: 8.7.0
+WC Database Prefix: wp_
+Tamaño total de la base de datos: 17.10MB
+Tamaño de los datos de la base de datos: 13.60MB
+Tamaño del índice de la base de datos: 3.50MB
+wp_woocommerce_sessions: Datos: 0.08MB + Índice: 0.02MB + Motor InnoDB
+wp_woocommerce_api_keys: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_woocommerce_attribute_taxonomies: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_woocommerce_downloadable_product_permissions: Datos: 0.02MB + Índice: 0.06MB + Motor InnoDB
+wp_woocommerce_order_items: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_woocommerce_order_itemmeta: Datos: 0.14MB + Índice: 0.16MB + Motor InnoDB
+wp_woocommerce_tax_rates: Datos: 0.02MB + Índice: 0.06MB + Motor InnoDB
+wp_woocommerce_tax_rate_locations: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_woocommerce_shipping_zones: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_woocommerce_shipping_zone_locations: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_woocommerce_shipping_zone_methods: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_woocommerce_payment_tokens: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_woocommerce_payment_tokenmeta: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_woocommerce_log: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_actionscheduler_actions: Datos: 2.52MB + Índice: 0.88MB + Motor InnoDB
+wp_actionscheduler_claims: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_actionscheduler_groups: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_actionscheduler_logs: Datos: 1.52MB + Índice: 0.44MB + Motor InnoDB
+wp_ac_abandoned_cart_history_lite: Datos: 1.02MB + Índice: 0.00MB + Motor InnoDB
+wp_ac_email_templates_lite: Datos: 0.03MB + Índice: 0.00MB + Motor InnoDB
+wp_ac_guest_abandoned_cart_history_lite: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_ac_sent_history_lite: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_commentmeta: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_comments: Datos: 0.09MB + Índice: 0.09MB + Motor InnoDB
+wp_gdpr_cc_options: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_jetpack_sync_queue: Datos: 0.02MB + Índice: 0.06MB + Motor InnoDB
+wp_links: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_ms_snippets: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_options: Datos: 4.03MB + Índice: 0.11MB + Motor InnoDB
+wp_postmeta: Datos: 1.52MB + Índice: 0.33MB + Motor InnoDB
+wp_posts: Datos: 1.34MB + Índice: 0.09MB + Motor InnoDB
+wp_snippets: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_termmeta: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_terms: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_term_relationships: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_term_taxonomy: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_usermeta: Datos: 0.09MB + Índice: 0.03MB + Motor InnoDB
+wp_users: Datos: 0.02MB + Índice: 0.05MB + Motor InnoDB
+wp_wcpdf_invoice_number: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_wcpdf_packing_slip_number: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_wc_admin_notes: Datos: 0.09MB + Índice: 0.00MB + Motor InnoDB
+wp_wc_admin_note_actions: Datos: 0.09MB + Índice: 0.02MB + Motor InnoDB
+wp_wc_category_lookup: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_wc_customer_lookup: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_wc_download_log: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_wc_orders: Datos: 0.02MB + Índice: 0.11MB + Motor InnoDB
+wp_wc_orders_meta: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_wc_order_addresses: Datos: 0.02MB + Índice: 0.06MB + Motor InnoDB
+wp_wc_order_coupon_lookup: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_wc_order_operational_data: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_wc_order_product_lookup: Datos: 0.05MB + Índice: 0.06MB + Motor InnoDB
+wp_wc_order_stats: Datos: 0.02MB + Índice: 0.05MB + Motor InnoDB
+wp_wc_order_tax_lookup: Datos: 0.02MB + Índice: 0.03MB + Motor InnoDB
+wp_wc_product_attributes_lookup: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_wc_product_download_directories: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_wc_product_meta_lookup: Datos: 0.03MB + Índice: 0.09MB + Motor InnoDB
+wp_wc_rate_limits: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_wc_reserved_stock: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_wc_tax_rate_classes: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_wc_webhooks: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_wfls_2fa_secrets: Datos: 0.02MB + Índice: 0.02MB + Motor InnoDB
+wp_wfls_role_counts: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB
+wp_wfls_settings: Datos: 0.02MB + Índice: 0.00MB + Motor InnoDB Post Type Counts
+
+attachment: 173
+custom_css: 2
+customize_changeset: 6
+mts_notification_bar: 1
+nav_menu_item: 10
+notification: 1
+page: 11
+popup: 2
+popup_theme: 8
+post: 1
+product: 88
+product_variation: 98
+revision: 160
+seedprod: 2
+shop_coupon: 1
+shop_order: 72
+wp_global_styles: 1 Security
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔ Active Plugins (11)
+
+Code Snippets: por Code Snippets Pro – 3.6.4
+Facebook for WooCommerce: por Facebook – 3.1.13
+GDPR Cookie Compliance: por Moove Agency – 4.13.4
+Jetpack: por Automattic – 13.2.2
+Abandoned Cart Lite for WooCommerce: por Tyche Softwares – 5.19.0
+WooCommerce Email Test: por RaiserWeb – 1.2.2
+WooCommerce Stripe Gateway: por WooCommerce – 8.1.0
+WooCommerce PayPal Payments: por WooCommerce – 2.6.0
+PDF Invoices & Packing Slips for WooCommerce: por WP Overnight – 3.8.0
+WooCommerce: por Automattic – 8.7.0
+Seguridad de acceso de Wordfence: por Wordfence – 1.1.10 Inactive Plugins (2)
+
+Coming Soon Page, Maintenance Mode, Landing Pages & WordPress Website Builder by SeedProd: por SeedProd – 6.15.23
+WooCommerce PayPal Checkout Gateway: por WooCommerce – 2.1.3 Settings
+
+API Enabled: –
+Force SSL: –
+Currency: EUR (€)
+Currency Position: left
+Thousand Separator: .
+Decimal Separator: ,
+Number of Decimals: 2
+Taxonomies: Product Types: external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to Woo.com: –
+Enforce Approved Product Download Directories: –
+HPOS feature screen enabled: –
+HPOS feature enabled: –
+Order datastore: WC_Order_Data_Store_CPT
+HPOS data sync enabled: – Logging
+
+Enabled: ✔
+Handler: Automattic\WooCommerce\Internal\Admin\Logging\LogHandlerFileV2
+Retention period: 30 días
+Level threshold: –
+Log directory size: 34 KB WC Pages
+
+Base de la tienda: #6 - /tienda/
+Carrito: #7 - /carrito/
+Finalizar compra: #8 - /finalizar-compra/
+Mi cuenta: ❌ La visibilidad de la página debe ser pública
+Términos y condiciones: #176 - /privacidad-y-legal/ Theme
+
+Name: Storefront
+Version: 4.5.4
+Author URL: https://woo.com/
+Child Theme: ❌ – Si estás modificando WooCommerce en un tema padre que no has creado personalmente
+te recomendamos utilizar un tema hijo. Ver: Cómo crear un tema hijo
+
+WooCommerce Support: ✔ Templates
+
+Overrides: – WooCommerce PayPal Payments
+
+Onboarded: ✔
+Shop country code: ES
+WooCommerce currency supported: ✔
+Advanced Card Processing available in country: ✔
+Pay Later messaging available in country: ✔
+Webhook status: –
+PayPal Vault enabled: –
+ACDC Vault enabled: –
+Logging enabled: –
+Reference Transactions: –
+Used PayPal Checkout plugin: ✔
+Subscriptions Mode: Disabled Admin
+
+Enabled Features: activity-panels
+analytics
+product-block-editor
+coupons
+core-profiler
+customer-effort-score-tracks
+import-products-task
+experimental-fashion-sample-products
+shipping-smart-defaults
+shipping-setting-tour
+homescreen
+marketing
+mobile-app-banner
+navigation
+onboarding
+onboarding-tasks
+product-variation-management
+product-virtual-downloadable
+product-external-affiliate
+product-grouped
+product-linked
+remote-inbox-notifications
+remote-free-extensions
+payment-gateway-suggestions
+shipping-label-banner
+subscriptions
+store-alerts
+transient-notices
+woo-mobile-welcome
+wc-pay-promotion
+wc-pay-welcome-page
+
+Disabled Features: customize-store
+minified-js
+new-product-management-experience
+product-pre-publish-modal
+settings
+async-product-editor-category-field
+
+Daily Cron: ✔ Next scheduled: 2024-04-04 23:40:11 +01:00
+Options: ✔
+Notes: 209
+Onboarding: completed Action Scheduler
+
+Completo: 3.725
+Oldest: 2024-03-04 17:30:18 +0000
+Newest: 2024-04-04 17:28:32 +0000
+
+Fallida: 9
+Oldest: 2023-02-14 23:40:52 +0000
+Newest: 2023-06-01 11:44:48 +0000
+
+Pendiente: 3
+Oldest: 2024-04-04 17:43:31 +0000
+Newest: 2024-04-05 12:41:21 +0000 Status report information
+
+Generated at: 2024-04-04 18:30:17 +01:00
+`
